@@ -45,5 +45,7 @@ License
 This project is licensed under the MIT License.
 
 Outputs:
-Screenshot 2025-04-26 010934.png
+![Screenshot 2025-04-26 010934](https://github.com/user-attachments/assets/85037f02-bf25-43cf-ad17-60f8b03fc8e8)
+![Screenshot 2025-04-26 011021](https://github.com/user-attachments/assets/44eebdb7-9202-4cc6-9c08-48d2788172e5)
+![Screenshot 2025-04-26 011142](https://github.com/user-attachments/assets/c86ffb7d-179b-44de-abfa-caae7c658ec9)
 
